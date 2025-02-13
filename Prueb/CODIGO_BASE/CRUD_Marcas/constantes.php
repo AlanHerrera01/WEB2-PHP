@@ -2,5 +2,5 @@
   define("SERVER","localhost");
   define("USER","root");
   define("PASS","");
-  define("BD","matriculacionfinal");
+  define("BD","usuariosbd");
  ?>
